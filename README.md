@@ -1,2 +1,2 @@
 # HadeToken
-The base solidity smart contract for our Hade Platform (HADE) token.
+The original solidity smart contracts for the Hade (HADE) token.
